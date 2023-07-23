@@ -43,11 +43,23 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in Python and
-        Javascript, and expertise in frameworks like React, Pandas, Tenserlow.
-        I'm a quick learner and collaborate closely with clients to create
-        efficient, scalable and user-friendly solutions that solve real-world
-        problems.
+        I come from Turkey and studied Wirtschaftsinformatik at TUM. I have
+        worked as a software engineer in Outbank Gmbh for 2 years and in Exo-IT
+        Solutions for 4 months. During my studies I got chance to participate
+        different projects and worked with some frameworks like Pandas, Numpy,
+        Tenserflow, ThreeJS, REST, React, Angular, Javascript, TypeScript, gRPC,
+        WebSockets. At my last project I was responsible for building Database
+        and Webscrabing microservices. There I worked with databases such as
+        MongoDB. I got 1.7 from my thesis. The title of the thesis is 'Comparing
+        different network architectures and serialization methods in Federated
+        Machine Learning in respect to their energy consumption'. A part from
+        the Univesity, I wrote Python scripts to parse user specific bank datas
+        using APIs in Outbank Gmbh. I did code reviews, analyze HAR files using
+        Proxyman, PostMan. Now, at Exo-IT Solutions, I am writing Java code in
+        backend, typescript in frontend. Also I am using PostgresSQL as
+        database. I do love my job and beeing an software engineer. I think that
+        is my strength. I am a person, who is a quick learner, eager to learn
+        new technoligies and egaer to develop my skills one step further.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-20">

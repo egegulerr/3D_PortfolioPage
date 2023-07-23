@@ -4,6 +4,9 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import googleDrive from "./googleDrive.png";
+import netfliy from "./netlify.png";
+import instagram from "./instagram.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -25,10 +28,19 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import tum from "./company/tum.png";
+import outbank from "./company/outbank.png";
+import school from "./company/school.png";
+import exo from "./company/exo.png";
+import udemy from "./company/udemy.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import youtube from "./youtubev2.png";
+import hyperautomation from "./hyperautomation.png";
+import tenserflow from "./tenserflow.png";
+import spotify from "./spotifyv2.png";
 
 export {
   logo,
@@ -59,4 +71,16 @@ export {
   carrent,
   jobit,
   tripguide,
+  tum,
+  school,
+  outbank,
+  exo,
+  udemy,
+  spotify,
+  hyperautomation,
+  tenserflow,
+  youtube,
+  googleDrive,
+  netfliy,
+  instagram,
 };
